@@ -1,0 +1,11 @@
+{
+	"title"		:	"Civillian",
+	"type"		:	"Gamemode",
+	"tags"		:	[ "Fun", "Cartoon" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
